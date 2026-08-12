@@ -38,13 +38,6 @@ Full Stack Web Developer Intern | BCA (AI with Python) Student | AI/ML Enthusias
 
 ---
 
-### 📊 GitHub Stats
-
-![Amal's GitHub Stats](https://github-readme-stats.vercel.app/api?username=amaltomyy&show_icons=true&theme=tokyonight)
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=amaltomyy&layout=compact&theme=tokyonight)
-
----
-
 ### 📫 Connect With Me
 
 - 💼 **LinkedIn:** [linkedin.com/in/amal-t-tomy](https://www.linkedin.com/in/amal-t-tomy)
