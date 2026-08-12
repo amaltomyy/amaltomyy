@@ -32,7 +32,7 @@ Full Stack Web Developer Intern | BCA (AI with Python) Student | AI/ML Enthusias
 ### 🌟 Featured Project
 
 #### 📌 [Pivot'e – Full-Stack Goal Execution SaaS](https://github.com/amaltomyy/pivote-saas)
-> A glassmorphic web application engineered for goal tracking, real-time database logging, secure Supabase authentication, and Vercel cloud deployment.
+> A glassmorphic web application built through AI-assisted engineering ("Vibe Coding") and deep systems analysis. Features include goal tracking, real-time database logging, secure Supabase authentication, and Vercel cloud deployment.
 - **Live Demo:** [pivote-saas.vercel.app](https://pivote-saas.vercel.app)
 - **Repository:** [amaltomyy/pivote-saas](https://github.com/amaltomyy/pivote-saas)
 
