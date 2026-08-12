@@ -1,51 +1,51 @@
-Hi, I'm Amal Tomy 👋
+# Hi there, I'm Amal Tomy 👋
 
-🎓 BCA (AI with Python) Student
-💻 Aspiring Python Software Developer (Backend Focus)
-🚀 Currently learning through CS50P
+Full Stack Web Developer Intern | BCA (AI with Python) Student | AI/ML Enthusiast
 
----
-
-🔧 Skills & Tools
-
-* Python (Core)
-* Problem Solving (Beginner)
-* Git & GitHub (Learning)
-* SQL (Learning)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Amal%20Tomy-0A66C2?style=for-the-badge&logo=linkedin)](https://www.linkedin.com/in/amal-t-tomy)
+[![GitHub](https://img.shields.io/badge/GitHub-amaltomyy-181717?style=for-the-badge&logo=github)](https://github.com/amaltomyy)
 
 ---
 
-📌 Current Focus
+### 🚀 About Me
 
-* Building real-world Python projects
-* Learning backend development
-* Strengthening coding fundamentals
-
----
-
-📈 Goals
-
-* Become a strong Python Backend Developer
-* Contribute to open-source projects
-* Crack top tech companies (FAANG-level)
+- 💻 **Currently:** Full Stack Web Developer Intern at **Zephyr Technologies & Solutions Pvt. Ltd.**
+- 🎓 **Education:** BCA in AI with Python at **Krupanidhi Degree College, Bangalore**
+- 📚 **Learning Journey:** CS50P learner, strengthening Data Structures & Algorithms, and exploring AI/ML mathematics.
+- 🎯 **Long-Term Goal:** Building production-grade software architectures with a specialization in Artificial Intelligence and Machine Learning.
 
 ---
 
-📫 Connect with me
+### 🧰 Tech Stack & Tools
 
-* LinkedIn: www.linkedin.com/in/amal-t-tomy
+**Languages & Frameworks:**
+`Python` `Django` `JavaScript` `React` `HTML5` `CSS3` `Tailwind CSS`
 
-<!--
-**amaltomyy/amaltomyy** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+**Databases & Backend:**
+`PostgreSQL` `Supabase` `SQL` `REST APIs`
 
-Here are some ideas to get you started:
+**Developer Tools & Cloud:**
+`Git` `GitHub` `Vercel` `VS Code` `Vite`
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+---
+
+### 🌟 Featured Project
+
+#### 📌 [Pivot'e – Full-Stack Goal Execution SaaS](https://github.com/amaltomyy/pivote-saas)
+> A glassmorphic web application engineered for goal tracking, real-time database logging, secure Supabase authentication, and Vercel cloud deployment.
+- **Live Demo:** [pivote-saas.vercel.app](https://pivote-saas.vercel.app)
+- **Repository:** [amaltomyy/pivote-saas](https://github.com/amaltomyy/pivote-saas)
+
+---
+
+### 📊 GitHub Stats
+
+![Amal's GitHub Stats](https://github-readme-stats.vercel.app/api?username=amaltomyy&show_icons=true&theme=tokyonight)
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=amaltomyy&layout=compact&theme=tokyonight)
+
+---
+
+### 📫 Connect With Me
+
+- 💼 **LinkedIn:** [linkedin.com/in/amal-t-tomy](https://www.linkedin.com/in/amal-t-tomy)
+- 📍 **Location:** Kozhikode, Kerala, India / Bangalore
